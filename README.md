@@ -2,7 +2,7 @@
 
 Find the code for this project [here](https://github.com/ihechikara/express-route-parameters-tutorial/blob/main/server.js).
 
-Watch the video version [here]().
+Watch the video version [here](https://youtu.be/8PyrqrHqj1g).
 
 Read the article version [here](https://ihechikara.com/posts/how-to-use-route-parameter-in-expressjs/).
 
